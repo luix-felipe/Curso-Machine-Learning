@@ -6,3 +6,8 @@ seaborn
 jupyter
 notebook
 opencv-python
+imutils
+tqdm
+ipywidgets
+ultralytics
+torch
